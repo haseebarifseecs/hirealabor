@@ -1,0 +1,91 @@
+body{
+    font-size: 1rem;
+}
+.card-logo{
+    display: flex;
+}
+.card-logo img{
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+}
+.seller-info{
+    padding:0 5px;
+}
+.seller-name{
+    display:block;
+}
+.seller-name a{
+    text-decoration: none;
+    font-size: small;
+    color:	#909090;
+    font-weight: bold;
+}
+.seller-badge{
+    display:block;
+    color:#C8C8C8;
+    font-size: smaller;
+    font-weight: bolder;
+}
+.rate-text{
+    color:	#606060;
+}
+.buy{
+    padding:1vh 1vw;
+    display:flex;
+}
+.contract-btn{
+    border:none;
+    padding:0.4vh 1vw;
+    background:#19A463;
+    color:white !important;
+    border-radius: 0.1vw;
+    flex:1;
+}
+.price{
+    font-size: large;
+    font-weight: bold;
+}
+.fa-star{
+    color:orange;
+    font-size: large;
+}
+.rating-count{
+    padding:0 0.5vw;
+    color:#606060;
+}
+.pagination{
+    justify-content: center;
+}
+
+#d-card{
+    box-shadow: rgb(0 0 0 / 29%) 1px 0px 3px 0px;
+    border:1px solid #C8C8C8;
+}
+.contact-worker{
+    border:1px solid #C8C8C8;
+    padding:1vw 1vh;
+    box-shadow: rgb(0 0 0 / 29%) 0.1px 0px 0.1px 0px;
+}
+#performance-card{
+    background-color: #FBFBFB;
+    border:1px solid #FBFBFB;
+    box-shadow: rgb(0 0 0 / 29%) 0.1px 0px 0.1px 0px;
+    padding:1vw 1vh;
+}
+.review-box{
+    border:1px solid #C8C8C8;
+}
+
+#review-section{
+    background-color: #FBFBFB;
+    border:1px solid #C8C8C8;
+    box-shadow: rgb(0 0 0 / 29%) 1px 0px 3px 0px;
+    padding:1vw 1vh;
+}
+.nav-link{
+    color:white  !important;
+}
+#sign-in{
+    color:rgb(67, 164, 197) !important;
+}
