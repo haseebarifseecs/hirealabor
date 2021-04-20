@@ -7,7 +7,6 @@ import Whyus from './Whyus'
 import Us from './Us'
 import HomeNav from './HomeNav'
 import Footer from './Footer'
-import '../Assets/css/mdb.min.css'
 import '../Assets/css/join.css'
 
 function BecomeaWorker() {
